@@ -17,11 +17,12 @@ A special thanks to my friends for their support and contributions! 🙌
 -Pham Thai Quoc ITITWE21118
 
 Works left: 
-PTQ:
+*PTQ:
 - Report: first half 
 - Adding features: Leaderboard ( with username ), Adding Graphics
 - Beautify codes
-NTBA:
+
+*NTBA:
 - Report: last half
 - Adding complexity -> versus BOT
   
