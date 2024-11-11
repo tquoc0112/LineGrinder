@@ -16,4 +16,12 @@ A special thanks to my friends for their support and contributions! 🙌
 -Ngo Trinh Bao Anh ITITIU21154
 -Pham Thai Quoc ITITWE21118
 
-
+Works left: 
+PTQ:
+- Report: first half 
+- Adding features: Leaderboard ( with username ), Adding Graphics
+- Beautify codes
+NTBA:
+- Report: last half
+- Adding complexity -> versus BOT
+  
