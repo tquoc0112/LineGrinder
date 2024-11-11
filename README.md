@@ -8,11 +8,12 @@ A clean, simple interface that’s easy to use.
 Customizable board sizes, so you can play short or epic battles.
 A Java-based GUI using Swing for smooth, responsive gameplay.
 A codebase that’s beginner-friendly and easy to expand—whether you want to add AI opponents, tweak game rules, or build new features.
-Dive in, have fun, and grind those lines to victory! Feel free to fork the repo, explore the code, and put your own spin on it. Have fun!
+Dive in, have fun, and grind those lines to victory! Have fun!
 
 Contributions
 A special thanks to my friends for their support and contributions! 🙌
 
--N/A
--N/A
+-Ngo Trinh Bao Anh ITITIU21154
+-Pham Thai Quoc ITITWE21118
+-Pham Thanh Liem ITITIU21069
 
